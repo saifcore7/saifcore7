@@ -8,3 +8,4 @@
 saifcore7/saifcore7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![](https://visitcount.itsvg.in/api?id=saifcore7&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
