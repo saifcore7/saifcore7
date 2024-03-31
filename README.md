@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saif Ali Khan</h1>
-<h3 align="center">I use arch by the way and I'm a programmer.</h3>
+<h3 align="center">I use arch btw.....</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifcore7&label=Profile%20views&color=0e75b6&style=flat" alt="saifcore7" /> </p>
 
